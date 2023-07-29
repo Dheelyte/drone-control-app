@@ -14,12 +14,16 @@ Watch a video of me controlling a Tello Drone with the Tello Drone Control Appli
 Install the project dependencies.
 Make sure you have Python and pip installed. It is advisable to install the requirements file in a virtual environment
 
-```pip install -r requirements.txt```
+```python
+pip install -r requirements.txt
+```
 
 ## Usage
-First connect to the Tello drone then run the Drone control application
+First connect to the Tello drone then run the Drone control application, with the following command:
 
-```python app.py```
+```python
+python app.py
+```
 
 ## App objectives
 The objective of this app was to design, develop and deploy the Tello Drone Control application, a cross-platform software for connecting and controlling the Tello Drone in real-time. This included development of requirement specifications for the app, prototype design, and field testing.
