@@ -2,6 +2,7 @@
 
 <p align="center">
   <img width="100%" src="https://github.com/Dheelyte/drone-control-app/blob/master/CameraFeed/Images/drone1.jpg?raw=true">
+  <img width="100%" src="https://thedronestop.com/wp-content/uploads/2022/08/ryze-tello-1.webp">
 </p>
 
 ## Installation
