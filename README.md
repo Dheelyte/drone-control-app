@@ -12,7 +12,7 @@ Watch a video of me controlling a Tello Drone with the Tello Drone Control Appli
 
 ## Installation
 Install the project dependencies.
-Make sure you have Python and pip installed.
+Make sure you have Python and pip installed. It is advisable to install the requirements file in a virtual environment
 
 ```pip install -r requirements.txt```
 
