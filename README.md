@@ -5,6 +5,11 @@
   <img width="100%" src="https://thedronestop.com/wp-content/uploads/2022/08/ryze-tello-1.webp">
 </p>
 
+## Demo
+Watch a video of me controlling a Tello Drone with the Tello Drone Control Application:
+
+[Watch Video](https://twitter.com/Unilag_Design/status/1621471823610134529?t=3eHWWmMV9S67K3w30pzeug&s=19)
+
 ## Installation
 Install the project dependencies.
 Make sure you have Python and pip installed.
