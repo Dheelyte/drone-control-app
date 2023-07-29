@@ -57,6 +57,9 @@ def moveDrone(move):
         yv = speed
     elif move == "land":
         drone.land()
+    elif move == "screenshot":
+        cv2.imwrite(f"Stream/Images/{time.time()}.jpg", img)
+        time.sleep(0.3)
     drone.send_rc_control(lr, fb, ud, yv)
     time.sleep(1)
     drone.send_rc_control(0, 0, 0, 0)
