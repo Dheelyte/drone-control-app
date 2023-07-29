@@ -58,7 +58,7 @@ def moveDrone(move):
     elif move == "land":
         drone.land()
     elif move == "screenshot":
-        cv2.imwrite(f"Stream/Images/{time.time()}.jpg", img)
+        cv2.imwrite(f"CameraFeed/Images/{time.time()}.jpg", img)
         time.sleep(0.3)
     drone.send_rc_control(lr, fb, ud, yv)
     time.sleep(1)
